@@ -1,6 +1,6 @@
 # LightNovelWorld Notification Discord Bot
 
-The LightNovelWorld Notification Discord Bot is a handy tool that allows users to receive notifications when new chapters are released for their favorite LightNovelWorld novels. Keep up-to-date with your favorite stories without constantly checking for updates.
+The [LightNovelWorld](https://www.lightnovelworld.com/) Notification Discord Bot is a handy tool that allows users to receive notifications when new chapters are released for their favorite LightNovelWorld novels. Keep up-to-date with your favorite stories without constantly checking for updates.
 
 ## Features
 
