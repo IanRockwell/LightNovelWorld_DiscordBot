@@ -27,3 +27,7 @@ The LightNovelWorld Notification Discord Bot is a handy tool that allows users t
 1. Clone this repository to your local machine.
 2. Set up a Discord bot account on the [Discord Developer Portal](https://discord.com/developers/applications).
 3. Modify the value in the `auth/auth.json` file to be your discord bot's token.
+
+## Known Problems
+
+Chapters with decimal values in them break the entire bot
